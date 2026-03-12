@@ -16,6 +16,7 @@ nav {
   gap: 1rem;
   margin-bottom: 2rem;
 }
+
 nav a.router-link-active {
   color: #535bf2;
 }
